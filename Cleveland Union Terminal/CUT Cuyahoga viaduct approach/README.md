@@ -1,4 +1,4 @@
-Note: The concrete bridge piers may be printed using convention PLA methods
+Note: The concrete bridge piers may be effectively printed using convention PLA methods
 
 Note: The cantilevered cantenary supports fit within the Scenic Express Riveted Steel Plate Girder Bridge Supports
 
