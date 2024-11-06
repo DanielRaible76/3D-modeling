@@ -1,1 +1,1 @@
-The purpose of this repository is to host 3D engineered models for public distribution
+All files hosted here have been successfully printed using resin technology (unless otherwise noted), and high detail settings.  Care must be taken during the slicer preparation to maintain the fedelity of the print, and some experimentation may be needed to generate the best results.
