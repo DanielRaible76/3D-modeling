@@ -1,6 +1,6 @@
 Description
 
-Welcome to the 3D project page!  This is a series of 1/48 O-scale superdetail designs, in 'STL' format.  Most sujects are from teh Great Lakes region.  All files hosted here have been successfully printed using resin technology (unless otherwise noted).  
+Welcome to the 3D project page!  This is a series of 1/48 O-scale superdetail designs, in 'STL' format.  Most sujects are from the Great Lakes region.  All files hosted here have been successfully printed using resin technology (unless otherwise noted).  
 
 Printing
 
