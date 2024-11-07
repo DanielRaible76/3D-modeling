@@ -1,8 +1,10 @@
-# Description
+# This is a list of 3D models for printing.
+
+## Description
 
 Welcome to the 3D project page!  This is a series of 1/48 O-scale superdetail designs, in 'STL' format.  Most prototype subjects are from the Great Lakes region.  All files hosted here have been successfully printed using resin technology (unless otherwise noted).  From here you can use the files to generate your own prints at home, or utilize a print farm service.
 
-# Printing Tips
+## Printing Tips
 
 Care must be taken during slicer preparation of the files to maintain the fidelity of the prints, and some experimentation may be needed to generate the best results.  Typical high-detail settings must be used, and you shoud pay close attention to adjusting:
   1. Part orientation
@@ -11,7 +13,7 @@ Care must be taken during slicer preparation of the files to maintain the fideli
   4. Exposure time per layer
   5. Initial bonding layers
 
-# How to Contribute
+## How to Contribute
 
 I welcome any and all contributions!  Here are some ways you can get started:
   1. Report bugs: If you encounter any bugs, please let me know. Open up an issue and let me know the problem.
