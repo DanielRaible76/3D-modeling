@@ -6,7 +6,7 @@ Welcome to the 3D project page!  This is a series of 1/48 O-scale superdetail de
 
 ### Printing Tips
 
-Care must be taken during slicer preparation of the files to maintain the fidelity of the prints, and some experimentation may be needed to generate the best results.  Typical high-detail settings must be used, and you shoud pay close attention to adjusting:
+Care must be taken during slicer preparation of the files to maintain the fidelity of the prints, and some experimentation may be needed to generate the best results.  Printers capable of at least 8K resolution should be used.  Typical high-detail settings must be set, and you shoud pay close attention to adjusting:
   1. Part orientation/rotation
   2. Support structures and bracing
   3. Layer thickness
