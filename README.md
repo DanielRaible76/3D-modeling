@@ -1,4 +1,4 @@
-## This is a list of 3D models for printing.
+## This is a space of 3D models for printing.
 
 ### Description
 
