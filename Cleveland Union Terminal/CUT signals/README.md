@@ -1,4 +1,4 @@
-Signal housing is hollowed out to accomodate a 1.8mm red LED and a 3.0mm multicolor LED
+Signal housing is hollowed out to accomodate a 1.8mm red LED and a 3.0mm multicolor LED, if you want to model all 4 aspects.
 
 ![CUT signal preview 1](https://github.com/user-attachments/assets/3a785fec-7e95-4158-a417-0648039fa3b1)
 ![CUT signal preview 2](https://github.com/user-attachments/assets/1f382e96-0af8-4601-86ca-5b309b230305)
