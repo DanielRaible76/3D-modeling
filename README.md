@@ -1,4 +1,4 @@
-## This is a space of my 3D designss for printing.
+## This is a space of my 3D designs for printing.
 
 ### Description
 
