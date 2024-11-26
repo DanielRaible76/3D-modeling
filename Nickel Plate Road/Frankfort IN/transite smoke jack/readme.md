@@ -1,2 +1,2 @@
-![![NKP Frankfort roundhouse smoke jack preview](https://github.com/user-attachments/assets/d37548d9-a356-4447-ad2b-33024ddfda28)
-NKP Frankfort roundhouse smoke jack](https://github.com/user-attachments/assets/8e0e7aa2-28a2-4c1d-b02c-073a125a9cc1)
+![NKP Frankfort roundhouse smoke jack preview](https://github.com/user-attachments/assets/68fce996-fb7b-4b4b-b205-e22ab7c9a780)
+![NKP Frankfort roundhouse smoke jack](https://github.com/user-attachments/assets/9a92c4ac-e395-4547-99ad-815decf540a7)
