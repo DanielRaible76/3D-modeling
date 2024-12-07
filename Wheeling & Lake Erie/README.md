@@ -1,6 +1,5 @@
-This project is currently under development.
+You will need at least an8-12K resin printer for these parts, and I recommend printing them directly to the plate - removing carefully with an x-acto blade for curing.
 
-![W LE prototype plate Brewster](https://github.com/user-attachments/assets/41bf46c8-6d99-4c08-8012-f7fb4ea6996e)
-![B-5 0-6-0 plates](https://github.com/user-attachments/assets/5cc6cb9a-32a9-465c-9dec-19ea1ebc4d83)
-![C1a 0-8-0 makers plate](https://github.com/user-attachments/assets/e6e5de12-ae4f-4463-97c7-826eda9440a5)
+![W LE parts montage preview](https://github.com/user-attachments/assets/e39e37b7-41af-4613-9df7-53da9afb5e99)
+![W LE parts montage](https://github.com/user-attachments/assets/dfb386fd-e10b-4cc9-a59a-ae92cc9481b5)
 ![W LE builders plate print cropped](https://github.com/user-attachments/assets/63676130-7a81-4b6d-8493-c60f4e690cb0)
