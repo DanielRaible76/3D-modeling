@@ -1,3 +1,4 @@
+On the sand box three things are intentinoally not prototypically accurate:  I increased the thickness of the base sheeting to help the print from failing.  Afterwords if that extra 0.5" is a bother you can sand it back with a dowel and some paper before fitting.  Also the handrails are 1/4" thicker for strength.  If they fail the bosses will still be there so a wire handgrab can be located.  Lastly the weld seam is oversized to a 1/4" bead to help it show up.
 
 ![L3a Mohawk preview](https://github.com/user-attachments/assets/3cc7dc0a-b2bf-4bda-bd73-aa2da9c97164)
 ![L3a Mohawk sand box preview](https://github.com/user-attachments/assets/98aa88de-42d3-42b9-aaf5-259252b6f8ea)
