@@ -1,5 +1,9 @@
 This project is marked *Completed.
 
+Commonly found on Bershires, Mikados and Hudson-type locomotives.
+
+Parts have been successfully produced using both high detail resin and lost-wax brass processing.
+
 ![NKP Mars light lost wax](https://github.com/user-attachments/assets/78d06baa-8446-424a-bb1b-09c2eb750a01)
 ![DSC02111](https://github.com/user-attachments/assets/a9e240d1-3704-46a8-a1ab-5794a781d468)
 ![NKP Mars light print](https://github.com/user-attachments/assets/38ab343a-0988-43d9-8eb5-4bec8ac781b0)
