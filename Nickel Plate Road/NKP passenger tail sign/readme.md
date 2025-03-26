@@ -4,7 +4,7 @@ The rear of the parts may need some minor trimming/sanding where a fillet may fo
 
 The O-scale version can be backlit, by inserting a piece of ruby gel film from the rear.
 
-The HO and N versions are best printed in clear red resin, and then drybrushed silver.
+The HO and N versions are best printed in clear red resin, and then drybrushed silver or highlighted with a silver marker.
 
 ![NKP tail sign](https://github.com/user-attachments/assets/25c6b610-4a8a-491e-9cc5-0ea50271c1b8)
 ![NKP tail sign preview](https://github.com/user-attachments/assets/59722e5c-8df2-4cd3-bf8f-9168d97cb7ef)
