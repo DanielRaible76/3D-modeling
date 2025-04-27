@@ -1,6 +1,6 @@
 Project under construction.
 
-DT&I concrete catenary arches - I would recommend making the top insulators in lox wax brass for strength, and gluing them into the holes provided at the top of the arches - which are best made from tough resin.
+DT&I concrete catenary arches - I would recommend making the top insulators in lost wax brass for strength, and gluing them into the holes provided at the top of the arches - which are best made from tough resin.
 
 Currently working on tender heralds.
 
