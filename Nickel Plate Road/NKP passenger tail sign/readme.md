@@ -2,7 +2,7 @@ This project is marked *Completed.
 
 The rear of the parts may need some minor trimming/sanding where a fillet may form at the printer plate interface.
 
-The O-scale version can be backlit, by inserting a piece of ruby gel film from the rear.
+The O-scale version can be backlit, by inserting a piece of ruby gel film from the rear.  The lettering is VERY fragile on these, so please exercise care when handling.  I find what works well is to cut the gel slightly undersized, and gently affix it to the rear of the lettering with a dab of canopy glue.
 
 The HO and N versions are best printed in clear red resin, and then drybrushed silver or highlighted with a silver marker.
 
