@@ -1,4 +1,4 @@
-This project is nearing completion.
+* This project is marked completed.
 
 Portable tail light for heavyweight and streamlined passenger cars.  Features mode selector switch, and hookups for brake airline and electrical trainline.  Utilizes a convex red lens, which may be printed in clear red resin and then glosscoated for transparency.
 
