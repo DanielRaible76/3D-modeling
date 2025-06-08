@@ -6,3 +6,5 @@ Portable tail light for heavyweight and streamlined passenger cars.  Features mo
 ![design preview 400](https://github.com/user-attachments/assets/c3aa2954-6d1a-4246-bb23-80c00034ba25)
 ![design preview 2 400](https://github.com/user-attachments/assets/5616df0a-d869-4e9b-a219-90fe62550b79)
 ![prototype 2 400](https://github.com/user-attachments/assets/aec40b02-99ea-4cb9-a333-782645010cff)
+![LED 400](https://github.com/user-attachments/assets/0fc0c806-2201-4623-9d6e-13df1a248f42)
+![model 400](https://github.com/user-attachments/assets/751c0a52-8029-4c80-bf8f-acb4d10cbe29)
