@@ -1,4 +1,4 @@
-*This project is marked completed
+*This project is marked completed.
 
 Model of a still-standing pillar crane located in Lorain, OH, just west of the Black River drawbridge, which served the NKP freight station.  Originally they were manually operated with large gears, and later they were electrified with a 220V hoist motor on a large plate, using 1/2" cable.  They are rated for 5 tons, and were contructed by Industrial Works from Bay City, MI as noted on the builder's plate on the left side of the boom.  
 
