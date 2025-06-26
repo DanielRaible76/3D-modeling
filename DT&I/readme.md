@@ -2,7 +2,7 @@
 
 DT&I concrete catenary arches - I would recommend making the top insulators in lost wax brass for strength, and gluing them into the holes provided at the top of the arches - which are best made from tough resin.
 
-The tender hearalds are very thin (0.001"), and are best printed right to the resin plate and carefully removed using a scalpal.  The brass lettering has 3D sculpting.
+The tender heralds are very thin (0.001"), and are best printed right to the resin plate and carefully removed using a scalpal.  The brass lettering has 3D sculpting.
 
 There is also a DT&I medallion which will light up when printed in clear resin and illuminated with LED's.
 
