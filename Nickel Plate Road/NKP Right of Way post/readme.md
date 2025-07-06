@@ -1,6 +1,6 @@
 * This project is marked completed.
 
-The protoype is located in Lakewood, OH next to the RoW at teh Cove Park ball diamond.
+The protoype is located in Lakewood, OH next to the RoW at the Cove Park ball diamond.
 
 ![NKP prototype post 400](https://github.com/user-attachments/assets/0739b581-e77a-4527-bd10-e589cd63ba17)
 ![RoW prototype post 400](https://github.com/user-attachments/assets/df2ad7da-425c-4df2-ad1f-8195ebb8cf74)
