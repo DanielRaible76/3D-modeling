@@ -1,4 +1,4 @@
-Recreation of Hulett ore unloaders constructed in Cleveland, starting with the 17 ton buckets.
+Recreation of Hulett ore unloaders constructed by Wellman-Seaver-Morgan Company in Cleveland, starting with the 17 ton buckets from the Huron docks.  This is a work in progress.
 
 ![Bucket preview 400](https://github.com/user-attachments/assets/01bbcd8b-30ba-485d-b106-b62ec1bf9ba6)
 ![bucket on flatcar](https://github.com/user-attachments/assets/e556ea38-a46c-4ff1-9598-18db6ab1d247)
