@@ -2,7 +2,7 @@
 
 ### Description
 
-Welcome to the 3D project page!  This is a series of 1/48 O-scale superdetail designs, in 'STL' format.  Most prototype subjects are from the Great Lakes region.  All files hosted here have been successfully printed using resin technology (unless otherwise noted).  From here you can use the files to generate your own prints at home, or utilize a print farm service.  I am using this site as a way to collaborate with ongoing custom work, and share model revisions under development.
+Welcome to the 3D project page!  This is a series of primarily 1/48 O-scale finescale designs, in 'STL' format for printing.  Most prototype subjects are from the Great Lakes region.  All files hosted here have been successfully printed using resin technology (unless otherwise noted).  From here you can use the files to generate your own prints at home, or utilize a commercial print service.  I am using this site as a way to collaborate with ongoing custom work, and share model revisions under development.
 
 ### Printing Tips
 
