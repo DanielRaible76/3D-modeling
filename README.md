@@ -4,6 +4,9 @@
 
 Welcome to the 3D project page!  This is a series of primarily 1/48 O-scale finescale designs, in 'STL' format for printing.  Most prototype subjects are from the Great Lakes region.  All files hosted here have been successfully printed using resin technology (unless otherwise noted).  From here you can use the files to generate your own prints at home, or utilize a commercial print service.  I am using this site as a way to collaborate with ongoing custom work, and share model revisions under development.
 
+Contributions most welcome!
+https://buymeacoffee.com/danielraible
+
 ### Printing Tips
 
 Care must be taken during slicer preparation of the files to maintain the fidelity of the prints, and some experimentation may be needed to generate the best results.  Printers capable of at least 8K resolution should be used.  Typical high-detail settings must be set, and you shoud pay close attention to adjusting:
@@ -13,7 +16,7 @@ Care must be taken during slicer preparation of the files to maintain the fideli
   4. Exposure time per layer
   5. Initial bonding layers
 
-### How to Contribute
+### Other ways to Contribute
 
 I welcome any and all contributions!  Here are some ways you can get started:
   1. Report bugs: If you encounter any bugs, please let me know. Open up an issue and let me know the problem.
