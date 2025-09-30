@@ -1,6 +1,6 @@
 Detail parts for EMD NW2 locomotive; project under construction.
 
-Trucks are the earlier AAR type-A with 5" leafs, double-coil springs and cotter-pinned brake hardware.  I will be fitting these to NWSL Stanton drives, and Atlas SW units.
+Trucks are the earlier AAR type-A with 5" leafs, double-coil springs and cotter-pinned brake hardware.  This version fits down onto the underfloor NWSL Stanton drives.
 
 ![IMG_0264](https://github.com/user-attachments/assets/e89f1a53-216b-46ca-94fe-d0f98689052b)
 ![louver preview](https://github.com/user-attachments/assets/052bcda9-88ba-4587-8f05-3f87ea739dc3)
