@@ -6,3 +6,5 @@ The sideframe file is adapted to fit to Atlas SW drive units, by dropping two M2
 ![AAR type-A print 400](https://github.com/user-attachments/assets/8edc32a0-5e48-45a3-b1a7-97c4a28ff8ad)
 ![Atlas SW AAR-A plain bearing 400](https://github.com/user-attachments/assets/6bdf83f5-2ef9-4af5-ad0c-7329549e2bbb)
 ![capture nuts 400](https://github.com/user-attachments/assets/399b2531-1432-4e83-a3ea-9fdd3ec40eec)
+![Timken preview 400](https://github.com/user-attachments/assets/075c0f8b-6eb1-4ed0-9feb-cced12702272)
+![AAR-A plain bearing design 400](https://github.com/user-attachments/assets/c64bcde7-1607-4227-9b05-9d75ee90050c)
