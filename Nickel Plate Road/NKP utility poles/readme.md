@@ -1,4 +1,4 @@
-Several variations of communications and power poles.  From the NKP literature double arms are required on all poles:
+Several variations of communications and power poles.  There is a hole on the bottom for mounting with a piece of wire.  From the NKP literature double arms are required on all poles:
 A - Where a wire dead-ends one way.
 B - Where more than 3 wires double dead end.
 C - Where a wire dead-ends and changes its pin position.
