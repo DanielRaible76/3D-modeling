@@ -1,8 +1,13 @@
 Several variations of finescale communications and power poles.  35' tall, and there is a hole on the bottom for mounting with a piece of wire.  From the NKP literature double arms are required on all poles:
+
 A - Where a wire dead-ends one way.
+
 B - Where more than 3 wires double dead end.
+
 C - Where a wire dead-ends and changes its pin position.
+
 D - At railroad crossings.
+
 E - At long span locations.
 
 ![utility pole prototype 400](https://github.com/user-attachments/assets/7d039fa9-3ec8-4103-b549-fe4227b0b4a1)
