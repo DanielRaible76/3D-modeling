@@ -16,7 +16,7 @@ Care must be taken during slicer preparation of the files to maintain the fideli
   4. Exposure time per layer
   5. Initial bonding layers
 
-Here is a video stepping you through printing some of the more challenging designs:
+I made a candid video documenting some 3D printing techniques using several examples.  This is targeted for both people who haven't seen the process up close before, and for those seeking some help with printing small and challenging details:
 https://youtu.be/XfF8NsxCWKA
 
 ### Other ways to Contribute
