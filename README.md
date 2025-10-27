@@ -16,6 +16,9 @@ Care must be taken during slicer preparation of the files to maintain the fideli
   4. Exposure time per layer
   5. Initial bonding layers
 
+Here is a video stepping you through printing some of the more challenging designs:
+https://youtu.be/XfF8NsxCWKA
+
 ### Other ways to Contribute
 
 I welcome any and all contributions!  Here are some ways you can get started:
