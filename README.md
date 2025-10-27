@@ -19,7 +19,7 @@ Care must be taken during slicer preparation of the files to maintain the fideli
 I made a candid video documenting some 3D printing techniques using several examples.  This is targeted for both people who haven't seen the process up close before, and for those seeking some help with printing small and challenging details:
 https://youtu.be/XfF8NsxCWKA
 
-### Other ways to Contribute
+### Other Ways to Contribute
 
 I welcome any and all contributions!  Here are some ways you can get started:
   1. Report bugs: If you encounter any bugs, please let me know. Open up an issue and let me know the problem.
@@ -29,7 +29,7 @@ I welcome any and all contributions!  Here are some ways you can get started:
 
 ![CUT diorama](https://github.com/user-attachments/assets/c80e7d03-5e89-485e-8fa2-9adb17f3f2bd)
 
-### About me
+### About Me
 
 Daniel Raible resides near Cleveland, Ohio, where his lifelong fascination with industry and transportation first took shape. Growing up amidst an industrial landscape which included the American Ship Building Company, Republic Steel Corporation, and a colorful mosaic of merging railroads, Daniel was inspired by the constant motion and adaptation of these enterprises. The local abundance of lift bridges, ore unloaders and coal docks offered him a lot of subjects to study, and rail-watching at busy places like Berea nurtured a deep interest in industrial archaeology and transportation history.
 
