@@ -1,3 +1,4 @@
-Please note: this design is about 80% done - still completing car fitment and refining a few details
-![car 1190 at E131 loop](https://github.com/user-attachments/assets/d0a89b8a-af52-4414-a8f5-64209f16b8c7)
-![eclipse preview](https://github.com/user-attachments/assets/1f68ef43-4295-4c15-b80a-feddfa798a2a)
+Please note: this design is about 95% done - still completing car fitment.
+
+![Cleveland Railway St Louis 1907 eclipse 400](https://github.com/user-attachments/assets/c76fbe35-808c-44e1-8fbb-94142d68ae55)
+![eclipse preview 400](https://github.com/user-attachments/assets/1e7af53f-9b92-45c5-99d3-f35be4f881ed)
