@@ -2,3 +2,4 @@ Ironman train order stand.  Very cool, but very delicate, so care needs to be ta
 
 ![Train Order ironman preview 400](https://github.com/user-attachments/assets/847f22c2-af53-4285-a1c3-67a3af563567)
 ![NYC ironman 400](https://github.com/user-attachments/assets/96c331ab-50d5-44ad-9252-0a3e3b01aeab)
+![ironman stowed](https://github.com/user-attachments/assets/c9ea69da-c022-43b8-8c25-146769dafe96)
