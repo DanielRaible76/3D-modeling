@@ -15,3 +15,4 @@ E - At long span locations.
 ![utility pole prototype 2 400](https://github.com/user-attachments/assets/5fc5b5a1-3f26-4b01-80e1-181815defd49)
 ![power pole preview 400](https://github.com/user-attachments/assets/900f38ae-de9a-46e5-8c4c-92bce95a06c2)
 ![telegraph pole quarter 400](https://github.com/user-attachments/assets/c90c4af6-238f-41fb-a924-06c0616682e6)
+![Double pole preview 400](https://github.com/user-attachments/assets/eac1df15-2d68-40b8-98f7-0c501a892d9e)
